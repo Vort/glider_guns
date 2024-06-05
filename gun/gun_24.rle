@@ -1,0 +1,8 @@
+#CSYNTH gun_24 costs 400 cells.
+#C period 24 fullperiod 24 bbox 20 by 20
+#CLL state-numbering golly
+x = 20, y = 20, rule = LifeHistory
+.A$.3A13.2A$4.A9.2A2.A$3.2A8.B2A.A$3.5B5.3B.2A$5.4B3.B3A.A$3.A3B2A
+4B3A.A$2.A3B2A2B2.A.B.2A.A$2.A7B3.2A3.2A$2.BA6B5.2A$4.5A2B4.A$3.2B
+3A3B6.A$3.3BA2B.B2A3.2A$3.6B.BA.A$3.6B4.A$4.5B4.2A$2.B.5B$B3A2.3BA
+$3AB3.3BA$.B6.3AB!

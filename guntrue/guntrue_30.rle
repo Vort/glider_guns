@@ -1,0 +1,8 @@
+#CSYNTH guntrue_30 costs 324 cells.
+#C period 30 fullperiod 30 bbox 36 by 9
+#CLL state-numbering golly
+x = 36, y = 9, rule = LifeHistory
+22.5BA4.B$20.6B4A5B$8.B2A3B.B2.7B2ABABA4B$.A4.3BA2BA11B3ABA2BA2B2A
+$A2B.2A7BA5B.5B2ABABAB.B2A$A5BA6BA12B4A4.B$.5A7BA7BA5BA$.8BA2BA9BA
+$3.B4.B2A3B3.3B3AB!
+
