@@ -1,4 +1,4 @@
-#CSYNTH gun_6930 costs 3240 cells.
+#CSYNTH guntrue_6930 costs 3240 cells.
 #C period 6930 fullperiod 6930 bbox 60 by 54
 #CLL state-numbering golly
 x = 60, y = 54, rule = LifeHistory
