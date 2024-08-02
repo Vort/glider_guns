@@ -2922,7 +2922,7 @@
 "guntrue_54","629"
 "guntrue_46","555"
 "guntrue_40","513"
-"guntrue_25","504"
 "guntrue_48","496"
+"guntrue_25","484"
 "guntrue_24","400"
 "guntrue_30","324"
