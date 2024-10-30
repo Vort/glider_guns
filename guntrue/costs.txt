@@ -1,5 +1,5 @@
 "apgcode","occurrences"
-"guntrue_47","47871"
+"guntrue_47","47674"
 "guntrue_3457","19832"
 "guntrue_3433","19551"
 "guntrue_3449","19551"
